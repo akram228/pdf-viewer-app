@@ -1,0 +1,21 @@
+PDF Reader
+
+A simple app for reading PDF files on your phone.
+
+Main features
+• Swipe pages sideways or scroll up and down
+• Bookmarks and jump to any page
+• Color filters to keep your eyes comfortable
+
+Privacy
+Your files are opened on your phone only. Nothing is uploaded to the internet.
+
+Author: phoethar
+Contact: akrakr228@gmail.com
+Telegram: https://t.me/phoethar2
+Send feedback or bug reports any time.
+
+Libraries used
+PdfBox-Android (Apache License 2.0)
+
+Thank you.

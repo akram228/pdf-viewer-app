@@ -1,0 +1,21 @@
+PDF Reader
+
+一款在手机上轻松阅读 PDF 文件的简单应用。
+
+主要功能
+• 左右滑动翻页，或上下滚动阅读
+• 书签，并可跳转到任意页面
+• 多种颜色滤镜，保护眼睛
+
+隐私
+您的文件只会在手机上打开，不会上传到互联网。
+
+作者：phoethar
+联系方式：akrakr228@gmail.com
+Telegram：https://t.me/phoethar2
+欢迎随时反馈意见或报告问题。
+
+使用的库
+PdfBox-Android (Apache License 2.0)
+
+谢谢使用。
